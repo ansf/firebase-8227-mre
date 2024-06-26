@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "compile": "tsc"
+    },
+    "dependencies": {
+        "typescript": "^5.5.2",
+        "firebase": "^10.12.2"
+    }
+}
